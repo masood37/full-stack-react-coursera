@@ -3,7 +3,7 @@ import {Card,CardImg,CardText,CardBody,CardTitle,Breadcrumb,BreadcrumbItem,Butto
 import { Link } from "react-router-dom";
 import { Control, LocalForm, Errors } from "react-redux-form";
 import { Loading } from "./LoadingComponent";
-import { baseUrl } from "../shared/baseUrl";
+import { baseUrl } from "../shared/baseURL";
 import { FadeTransform, Fade, Stagger } from "react-animation-components";
 
 
